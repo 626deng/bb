@@ -84,5 +84,9 @@ class MainActivity : AppCompatActivity() {
     {
     }
 
+    fun B()
+    {
+    }
+
 
 }
